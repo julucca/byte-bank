@@ -5,7 +5,7 @@ Repositório com projeto Byte Bank desenvolvido durante o curso React: abstraind
 ## 📁 Detalhes do projeto
 
 <div align="center">
-	<img width=300px src="./public/donation.svg">
+	<img width=180px src="./public/donation.svg">
 </div><br>
 
 O Byte Bank é um banco fictício com uma aplicação web para seus clientes. A proposta para esse projeto foi desenvolver novas funcionalidades como troca de temas, entre claro e escuro, e também um novo componente de status, para visualizar a movimentação da conta.
